@@ -12,10 +12,8 @@
 - Control de versiones: Git, GitHub
 
 ## 🔭 Proyectos Destacados
-
-- [MovieApp](https://github.com/fares-developer/movieapp): En este proyecto se pueden consultar información sobre las películas y series de momento.
-- [Design Patterns](https://github.com/fares-developer/design_patterns): Proyecto del Juego del Laberinto utilizando patrones de diseño software.
-- [Service Stations](https://github.com/fares-developer/stations_place): Proyecto de implementación de algoritmos de búsqueda y metaheurísticos para moverse de un punto a otro, y ubicar estaciones de servicio de manera óptima en una ciudad.
+- [Design Patterns](https://github.com/faresuclm/design_patterns): Proyecto del Juego del Laberinto utilizando patrones de diseño software.
+- [Service Stations](https://github.com/faresuclm/stations_place): Proyecto de implementación de algoritmos de búsqueda y metaheurísticos para moverse de un punto a otro, y ubicar estaciones de servicio de manera óptima en una ciudad.
 
 ## 🌱 Estoy aprendiendo
 
