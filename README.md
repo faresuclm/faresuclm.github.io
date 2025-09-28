@@ -1,4 +1,4 @@
-# Fares Developer
+# Fares
 
 ## Bienvenido/a a mi perfil de GitHub 👋
 
